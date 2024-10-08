@@ -1,7 +1,7 @@
 {
-  "name": "APP",
-  "short_name": "APP",
-  "start_url": "/test",
+  "name": "PWA-TEST",
+  "short_name": "PWA-TEST",
+  "start_url": "/pwa-test",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
